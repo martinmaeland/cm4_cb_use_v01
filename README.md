@@ -1,2 +1,2 @@
 # Command Module 4 Carrierboard Utksytningsenhet
-This board will be used in an deployment unit (utskytningsenhet) for controlling several drones.
+This simple pcb will be used in a deployment unit (utskytningsenhet) for controlling several drones.
