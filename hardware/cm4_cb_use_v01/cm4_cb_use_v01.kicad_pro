@@ -340,7 +340,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rpi-cm4-base-carrier.kicad_pro",
+    "filename": "cm4_cb_use_v01.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -471,7 +471,7 @@
   },
   "sheets": [
     [
-      "0a570d1d-4c35-4a91-abff-50023bc2eaeb",
+      "fc4c71a5-1008-4ac4-98db-57c838c57d91",
       ""
     ],
     [

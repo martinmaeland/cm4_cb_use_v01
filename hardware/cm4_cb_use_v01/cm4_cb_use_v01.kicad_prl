@@ -67,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "rpi-cm4-base-carrier.kicad_prl",
+    "filename": "cm4_cb_use_v01.kicad_prl",
     "version": 3
   },
   "project": {
