@@ -4,4 +4,5 @@
   (lib (name "2020-11-06_22-01-36")(type "Legacy")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/hardware/libraries/2020-11-06_22-01-36/2020-11-06_22-01-36.lib")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB_LF__SN_")(type "Legacy")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/hardware/libraries/SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
   (lib (name "MOLEX_1054500101_usb_c")(type "Legacy")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/hardware/libraries/MOLEX_1054500101_usb_c/MOLEX_1054500101_usb_c.lib")(options "")(descr ""))
+  (lib (name "SN74LVC1G07DCKR")(type "Legacy")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/hardware/libraries/SN74LVC1G07DCKR/SN74LVC1G07DCKR.lib")(options "")(descr ""))
 )
