@@ -1225,7 +1225,6 @@
     )
   )
 
-
   (junction (at 40.64 53.34) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 60.96) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 71.12) (diameter 1.016) (color 0 0 0 0))
@@ -2166,7 +2165,7 @@
     (uuid a447d0d8-b88b-4096-b711-65a26c3df482)
     (property "Reference" "U1" (id 0) (at 252.73 49.0536 0))
     (property "Value" "SN74LVC1G07DCKR" (id 1) (at 252.73 51.3523 0))
-    (property "Footprint" "" (id 2) (at 252.73 62.23 0)
+    (property "Footprint" "SN74LVC1G07DCKR:SOT65P210X110-5N" (id 2) (at 252.73 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1811121113_Texas-Instruments-SN74LVC1G07DCKR_C7830.pdf" (id 3) (at 252.73 62.23 0)
@@ -2198,7 +2197,7 @@
     (property "Digi-Key_PN (Alt)" "2x H124602CT-ND" (id 7) (at 76.2 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C597931" (id 8) (at 73.66 39.37 0))
+    (property "LCSC" "C597931" (id 4) (at 73.66 39.37 0))
     (pin "1" (uuid 561ec85d-2e85-46e5-9b15-5618734b5dfe))
     (pin "10" (uuid 7892b82a-a156-4a5d-b3ea-1ef9f6823fcc))
     (pin "100" (uuid 27228232-998c-4b3a-934d-a2d7ced46255))

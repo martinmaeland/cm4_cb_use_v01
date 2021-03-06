@@ -83,7 +83,7 @@
       (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/a447d0d8-b88b-4096-b711-65a26c3df482"
-      (reference "U1") (unit 1) (value "SN74LVC1G07DCKR") (footprint "")
+      (reference "U1") (unit 1) (value "SN74LVC1G07DCKR") (footprint "SN74LVC1G07DCKR:SOT65P210X110-5N")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/b2399ede-2d4f-433e-b8d4-681558150323"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
@@ -101,19 +101,19 @@
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/0936af94-7709-4bc9-a27a-24e3243eece9"
-      (reference "J2") (unit 1) (value "HDMI_A") (footprint "")
+      (reference "J2") (unit 1) (value "HDMI_A") (footprint "SFONG_HDMI:SOFNG_HDMI")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/94c7d5d7-d648-439f-a208-c5670f7fe4ab"
-      (reference "J3") (unit 1) (value "1054500101") (footprint "")
+      (reference "J3") (unit 1) (value "1054500101") (footprint "MOLEX_1054500101_usb_c:Molex-1054500101-MFG")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/fafda8be-1326-444e-bcc1-8cb4aded3240"
       (reference "Module1") (unit 2) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
     )
-    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/396b9497-eaad-42f6-adc1-1d724e13ef1c"
-      (reference "R3") (unit 1) (value "2.2K 1%") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/52bebada-ef6d-4105-a555-c7186045bbfa"
+      (reference "R3") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
-    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/ceb61f80-9754-4184-938a-c0f30efebd07"
-      (reference "R4") (unit 1) (value "2.2K 1%") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    (path "/caa71f4c-454d-4ac9-b287-456eafb34991/a7c6d2b0-d639-4fcd-a253-dcd26f65fb5f"
+      (reference "R4") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/25c200c8-8d48-421b-ac68-c53b8df4e956"
       (reference "U2") (unit 1) (value "TPD2EUSB30") (footprint "Package_TO_SOT_SMD:Texas_DRT-3")
