@@ -1,1 +1,2 @@
-# cm4_cb_use_v01
+# Command Module 4 Carrierboard Utksytningsenhet
+This simple pcb will be used in a deployment unit (utskytningsenhet) for controlling several drones.
