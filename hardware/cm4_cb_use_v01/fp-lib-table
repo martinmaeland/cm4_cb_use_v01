@@ -6,4 +6,5 @@
   (lib (name "MOLEX_1054500101_usb_c")(type "KiCad")(uri "/home/martin/dev/kicad/projects/cm4_cb_use_v01/libraries/MOLEX_1054500101_usb_c/MOLEX_1054500101_usb_c.pretty")(options "")(descr ""))
   (lib (name "SN74LVC1G07DCKR")(type "KiCad")(uri "/home/martin/dev/kicad/projects/cm4_cb_use_v01/libraries/SN74LVC1G07DCKR")(options "")(descr ""))
   (lib (name "SFONG_HDMI")(type "KiCad")(uri "/home/martin/dev/kicad/projects/cm4_cb_use_v01/libraries/SFONG_HDMI/SFONG_HDMI.pretty")(options "")(descr ""))
+  (lib (name "TPS62133")(type "KiCad")(uri "/home/martin/dev/kicad/projects/cm4_cb_use_v01/libraries/TPS62133/TPS62133.pretty")(options "")(descr ""))
 )

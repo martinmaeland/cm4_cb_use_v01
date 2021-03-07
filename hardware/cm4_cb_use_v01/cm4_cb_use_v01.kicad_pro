@@ -427,7 +427,9 @@
     "meta": {
       "version": 0
     },
-    "net_colors": null
+    "net_colors": {
+      "GND": "rgb(255, 248, 53)"
+    }
   },
   "pcbnew": {
     "last_paths": {
