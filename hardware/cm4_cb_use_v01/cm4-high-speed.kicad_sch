@@ -1734,6 +1734,7 @@
     )
   )
 
+
   (junction (at 40.64 60.96) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 68.58) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 76.2) (diameter 1.016) (color 0 0 0 0))
@@ -2686,7 +2687,7 @@
     (property "Value" "HDMI_A" (id 1) (at 205.2321 65.9193 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "SFONG_HDMI:SOFNG_HDMI" (id 2) (at 194.945 64.77 0)
+    (property "Footprint" "MOLEX_1054500101_usb_c:molex_hdmi" (id 2) (at 194.945 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/2009111836_SOFNG-HDMI-019S_C111617.pdf" (id 3) (at 194.945 64.77 0)

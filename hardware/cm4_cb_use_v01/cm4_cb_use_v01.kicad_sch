@@ -121,6 +121,15 @@
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/ff1bd616-b9e0-4f01-b4b1-bf6b3babe171"
       (reference "R5") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/8e4a3d95-ed51-4462-9971-186f06122594"
+      (reference "R6") (unit 1) (value "262K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/72190f5d-98cc-4c78-8ed7-8d8c288bc8cd"
+      (reference "R7") (unit 1) (value "50K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/deb6c178-b0d7-4e71-9bcb-395f497148fd"
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "c&k_slide_switch_1101M2S3AQE2:c&k_slide_switch_1101M2S3AQE2")
+    )
     (path "/fc4c71a5-1008-4ac4-98db-57c838c57d91/a447d0d8-b88b-4096-b711-65a26c3df482"
       (reference "U1") (unit 1) (value "SN74LVC1G07DCKR") (footprint "SN74LVC1G07DCKR:SOT65P210X110-5N")
     )
@@ -140,7 +149,7 @@
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/0936af94-7709-4bc9-a27a-24e3243eece9"
-      (reference "J2") (unit 1) (value "HDMI_A") (footprint "SFONG_HDMI:SOFNG_HDMI")
+      (reference "J2") (unit 1) (value "HDMI_A") (footprint "MOLEX_1054500101_usb_c:molex_hdmi")
     )
     (path "/caa71f4c-454d-4ac9-b287-456eafb34991/94c7d5d7-d648-439f-a208-c5670f7fe4ab"
       (reference "J3") (unit 1) (value "1054500101") (footprint "MOLEX_1054500101_usb_c:Molex-1054500101-MFG")

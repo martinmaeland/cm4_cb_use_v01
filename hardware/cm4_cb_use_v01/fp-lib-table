@@ -7,4 +7,5 @@
   (lib (name "SN74LVC1G07DCKR")(type "KiCad")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/libraries/SN74LVC1G07DCKR")(options "")(descr ""))
   (lib (name "SFONG_HDMI")(type "KiCad")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/libraries/SFONG_HDMI/SFONG_HDMI.pretty")(options "")(descr ""))
   (lib (name "TPS62133")(type "KiCad")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/libraries/TPS62133/TPS62133.pretty")(options "")(descr ""))
+  (lib (name "c&k_slide_switch_1101M2S3AQE2")(type "KiCad")(uri "C:/Users/marti/Documents/kicad/5.99/projects/cm4_cb_use_v01/libraries/CK_Slide_Switch/c&k_slide_switch_1101M2S3AQE2.pretty")(options "")(descr ""))
 )
