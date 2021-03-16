@@ -1587,7 +1587,6 @@
     )
   )
 
-
   (junction (at 40.64 53.34) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 60.96) (diameter 1.016) (color 0 0 0 0))
   (junction (at 40.64 71.12) (diameter 1.016) (color 0 0 0 0))
